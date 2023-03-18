@@ -5,13 +5,8 @@
       {
         "appID": "GYAD36A24H.fahrney.kit.Squirdle",
         "paths": [
+          "/",
           "/freeplay/*",
-        ]
-      },
-      {
-        "appID": "GYAD36A24H.fahrney.kit.Squirdle",
-        "paths": [
-          "*"
         ]
       }
     ]
